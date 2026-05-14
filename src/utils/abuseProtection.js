@@ -20,8 +20,6 @@ const RISKY_COMMAND_CATEGORIES = new Set([
 
 const RISKY_COMMAND_NAMES = new Set([
   'wipedata',
-  'massban',
-  'masskick',
   'ban',
   'kick',
   'timeout',
