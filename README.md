@@ -26,7 +26,7 @@ TitanBot offers a complete suite of tools for Discord server management and comm
 <td width="50%" valign="top">
 
 ### 🛡️ Moderation & Administration
-- **Mass Actions** - Bulk ban/kick capabilities
+- **Moderation Tools** - Ban, kick, timeout, purge, warn, and case management
 - **User Notes** - Keep detailed moderation records
 - **Case Management** - View and track all mod actions
 
